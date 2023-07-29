@@ -14,7 +14,7 @@
 
 ## Your DNSTT Nameserver & your Domain `A` Record
 
-NS='nssshus1.blastvpn.store'
+NS='jrc.ws.privatessh.tech'
 NS1='nssshus2.blastvpn.store'
 NS2='nssshus3.blastvpn.store'
 NS3='nssshgerman1.blastvpn.store'
