@@ -1,3 +1,4 @@
+#!/bin/bash
 NS='jrc.ws.privatessh.tech'
 A='jrc.ws.privatessh.tech'
 LOOP_DELAY=5
